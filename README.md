@@ -1,7 +1,16 @@
 ## Hi there 👋
 
+I'm **kishan** 👋  
+📚 Civil undergraduate @ Darbhanga College of Engineering (1st Year)  
+💡 Exploring programming, app development & creative tools  
+🤖 Currently tinkering with automation, academic platforms & technical setup    
+🌐 Connect with me:  
+&nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @kumark_ishan](https://instagram.com/kumark_ishan)  
+&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: ](https://linkedin.com/in/kishan-kumar-426579378)
+
+
 <!--
-**kishan-dce/Kishan-dce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kishan-dce/kishan-dce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
