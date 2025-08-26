@@ -6,7 +6,7 @@ I'm **kishan** 👋
 🤖 Currently tinkering with automation, academic platforms & technical setup    
 🌐 Connect with me:  
 &nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @kumark_ishan](https://instagram.com/kumark_ishan)  
-&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: @kishan-kumar-426579378](https://linkedin.com/in/kishan-kumar-426579378)
+&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: @kishan-kumar-dce](https://linkedin.com/in/kishan-kumar-426579378)
 
 
 <!--
